@@ -12,7 +12,7 @@
 ## التثبيت
 ```bash
 git clone <repo-url>
-cd bigdata-phase2
+cd Bigdata
 python -m venv .venv
 source .venv/bin/activate         # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
