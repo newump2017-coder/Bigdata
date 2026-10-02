@@ -1,4 +1,4 @@
-# Big Data Project — Phase 2 (Final)
+# Big Data Project 
 
 ## نظرة عامة
 مشروع نهائي مبني على المشروع النصفي (Phase 1) داخل نفس مستودع GitHub.
